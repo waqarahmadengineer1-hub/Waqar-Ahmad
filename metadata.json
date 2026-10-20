@@ -1,0 +1,6 @@
+{
+  "name": "Glad Heart",
+  "description": "Glad Heart is a complete Flipkart-style eCommerce platform featuring rich product shopping, PAN & Aadhaar verified Seller Hub (Supply Panel), payment gateway checkout, and user profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
